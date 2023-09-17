@@ -15,15 +15,19 @@ and so on as shown in the given figure.
 
 Chef is interested in forming a triangle with maximum possible height using at most N coins. Can you tell him the maximum possible height of the triangle?
 
-Input
+#### Input
+
 The first line of input contains a single integer T denoting the number of test cases.
 
 The first and the only line of each test case contains an integer N denoting the number of gold coins Chef has.
 
-Output
+#### Output
+
 For each test case, output a single line containing an integer corresponding to the maximum possible height of the triangle that Chef can get.
 
-Constraints
+#### Constraints
+
 1 ≤ T ≤ 100
-1 ≤ N ≤ 109
+
+1 ≤ N ≤ 10^9
 
